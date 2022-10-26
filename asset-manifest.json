@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ed8de65.css",
-    "main.js": "/static/js/main.86c4ba20.js",
+    "main.css": "/static/css/main.294e49ed.css",
+    "main.js": "/static/js/main.c3984416.js",
     "static/js/787.6b68e559.chunk.js": "/static/js/787.6b68e559.chunk.js",
     "static/media/VITRO CORE TTF.ttf": "/static/media/VITRO CORE TTF.82a2b0ef9f7a3886a8cd.ttf",
     "static/media/VITRO PRIDE TTF.ttf": "/static/media/VITRO PRIDE TTF.4a989a61e6062c1b91d1.ttf",
@@ -11,12 +11,12 @@
     "static/media/kteacher.png": "/static/media/kteacher.e416136a1908b57ccf1f.png",
     "static/media/distribute.png": "/static/media/distribute.1108f6a5147da593412e.png",
     "index.html": "/index.html",
-    "main.1ed8de65.css.map": "/static/css/main.1ed8de65.css.map",
-    "main.86c4ba20.js.map": "/static/js/main.86c4ba20.js.map",
+    "main.294e49ed.css.map": "/static/css/main.294e49ed.css.map",
+    "main.c3984416.js.map": "/static/js/main.c3984416.js.map",
     "787.6b68e559.chunk.js.map": "/static/js/787.6b68e559.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ed8de65.css",
-    "static/js/main.86c4ba20.js"
+    "static/css/main.294e49ed.css",
+    "static/js/main.c3984416.js"
   ]
 }
