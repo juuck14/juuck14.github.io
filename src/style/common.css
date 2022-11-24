@@ -259,7 +259,7 @@ a:hover{
     overflow: hidden;
     white-space: nowrap;
     width: 0%;
-    font-size: 2rem;
+    font-size: 30px;
     animation: titleTextAnimation 1.4s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards;
 }
 
@@ -305,6 +305,11 @@ a:hover{
 #TitlePage .title2 .box{
     background-color: var(--purple);
     animation-delay: 1.7s;
+}
+
+#TitlePage .title .bar{
+    width: 286.65px;
+    height: 1px;
 }
 
 @keyframes titleTextAnimation {
