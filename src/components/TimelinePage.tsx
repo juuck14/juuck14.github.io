@@ -50,6 +50,15 @@ const TimelinePage = () => {
             skills: ["VUEJS", "BOOTSTRAP"],
             link: "https://sharp-shaw-6849ac.netlify.app",
             githubLink: "https://github.com/juuck14/distribute"
+        },
+        { 
+            title: "영화 대쉬보드",
+            period: "2022.11 ~ ",
+            content: "영화에 관해 감상평을 기록하고 채팅할 수 있는 프로그램입니다. NUXT.JS와 EXPRESS를 공부하려고 시작한 프로젝트입니다. 거기에 SOCKET.IO로 실시간 채팅 기능을 넣고, AWS의 RDS와 EC2를 사용해 배포했습니다. 아직 개발 진행중 단계입니다.",
+            image: require("resources/images/moviedashboard.jpg"),
+            skills: ["NUXT.JS", "EXPRESS", "SOCKET.IO"],
+            link: "http://juuck14.link",
+            githubLink: "https://github.com/juuck14/movieDashBoard"
         }
     ];
 
